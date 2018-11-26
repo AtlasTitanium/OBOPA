@@ -1,2 +1,8 @@
-﻿  Block.cpp
-  OBOPA_HW2_GameOfLife.vcxproj -> C:\Users\Atlas\Desktop\HKU School\Year2\GitHubFiles\OOP_Advanced\OBOPA_HW2_GameOfLife\Debug\OBOPA_HW2_GameOfLife.exe
+﻿  pch.cpp
+  Block.cpp
+  GameRules.cpp
+  MatrixDrawer.cpp
+  OBOPA_HW2_GameOfLife.cpp
+  Rules.cpp
+  Generating Code...
+  OBOPA_HW2_GameOfLife.vcxproj -> C:\Users\Atlas\Desktop\HKU School\Year2\GitHubFiles\OBOPA\OBOPA_HW2_GameOfLife\Debug\OBOPA_HW2_GameOfLife.exe

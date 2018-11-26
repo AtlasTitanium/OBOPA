@@ -5,15 +5,15 @@
 int Rules::RulesCheck(int neighbours, int points) {
 	int nextState = points;
 	if (nextState == 0) {
-		if (neighbours == 3) { //Condition for reproduction
+		if (neighbours == 3) {
 			nextState = 1;
 		}
 	}
 	else {
-		if (neighbours > 3 || neighbours < 2) { //Condition for Death
+		if (neighbours > 3 || neighbours < 2) {
 			nextState = 0;
 		}
 	}
-	return nextState; //Return new value of cell
+	return nextState;
 }
 
