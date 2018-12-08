@@ -14,10 +14,10 @@ NPC_Creator::NPC_Creator()
 {
 }
 
-void NPC_Creator::addNPC(std::string name, std::string race, bool farmer, bool soldier, bool shaman) {
+void NPC_Creator::addNPC(std::string name, Ras race, bool farmer, bool soldier, bool shaman) {
 	Race* theNPC;
 
-	if (race == "Orc" || race == "orc" || race == "Orcs" || race == "orcs") {
+	if (race == Orc) {
 		theNPC = new Orcs(name);
 		if (farmer) {
 			theNPC = new Farmer(theNPC);
@@ -29,7 +29,7 @@ void NPC_Creator::addNPC(std::string name, std::string race, bool farmer, bool s
 			theNPC = new Shaman(theNPC);
 		}
 	}
-	else if (race == "Elf" || race == "elf" || race == "Elve" || race == "elve" || race == "Elves" || race == "elves") {
+	else if (race == Elve) {
 		theNPC = new Elves(name);
 		if (farmer) {
 			theNPC = new Farmer(theNPC);
