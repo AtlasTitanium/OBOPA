@@ -1,12 +1,1 @@
-﻿  pch.cpp
-  Class.cpp
-  Elves.cpp
-  Farmer.cpp
-  NPC_Creator.cpp
-  OBOPA_HW3_ClassSystem.cpp
-  Orcs.cpp
-  Race.cpp
-  Shaman.cpp
-  Soldier.cpp
-  Generating Code...
-  OBOPA_HW3_ClassSystem.vcxproj -> C:\Users\Pepijn\Desktop\Jaar2\GithubKrakenFiles\OBOPA\OBOPA_HW3_ClassSystem\Debug\OBOPA_HW3_ClassSystem.exe
+﻿  OBOPA_HW3_ClassSystem.vcxproj -> C:\Users\Pepijn\Desktop\Jaar2\GithubKrakenFiles\OBOPA\OBOPA_HW3_ClassSystem\Debug\OBOPA_HW3_ClassSystem.exe
