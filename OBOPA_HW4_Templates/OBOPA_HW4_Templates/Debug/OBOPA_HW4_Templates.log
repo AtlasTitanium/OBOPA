@@ -1,5 +1,2 @@
 ﻿  OBOPA_HW4_Templates.cpp
-c:\users\atlas\desktop\hku school\year2\githubfiles\obopa\obopa_hw4_templates\obopa_hw4_templates\obopa_hw4_templates.cpp(31): error C2065: 'Item': undeclared identifier
-c:\users\atlas\desktop\hku school\year2\githubfiles\obopa\obopa_hw4_templates\obopa_hw4_templates\obopa_hw4_templates.cpp(31): error C2660: 'std::swap': function does not take 1 arguments
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(316): note: see declaration of 'std::swap'
-c:\users\atlas\desktop\hku school\year2\githubfiles\obopa\obopa_hw4_templates\obopa_hw4_templates\obopa_hw4_templates.cpp(55): error C2059: syntax error: ']'
+  OBOPA_HW4_Templates.vcxproj -> C:\Users\Atlas\Desktop\HKU School\Year2\GitHubFiles\OBOPA\OBOPA_HW4_Templates\Debug\OBOPA_HW4_Templates.exe
